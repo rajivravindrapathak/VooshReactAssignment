@@ -42,6 +42,7 @@ const BooknowPage = () => {
                 <img className='eatImg' src='https://voosh.in/static/media/page1_4.a2a22e7f5e42a50552ae.webp' />
                 <img className='tirImg' src='https://voosh.in/static/media/page1_1.cb1dbedcdc321b25fb4e.webp' />
                 <img className='amazonImg' src='https://voosh.in/static/media/page1_2.4bfc2d124bbd2e50da2d.webp' />
+                <img className='zomatoImg' src='https://voosh.in/static/media/page1_3.1d108925b5e5156bb2d4.webp' />
                 <img className='linearrowImg' src='https://voosh.in/static/media/arrow.ff14f58c77374c33f8e8.webp' />
                 <img className='swiggyImg' src='https://voosh.in/static/media/page1_5.f505a37d3e86d1a571da.webp' />
 
