@@ -1,10 +1,10 @@
 import './App.css';
-import AllRoutes from './Components/AllRoutes';
+import BooknowPage from './Components/BooknowPage';
 
 function App() {
   return (
     <div>
-       <AllRoutes />
+       <BooknowPage />
     </div>
   );
 }
